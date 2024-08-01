@@ -9,12 +9,12 @@ A LocalCommunityDAO é uma organização descentralizada autônoma criada para a
 "Apoiar e financiar iniciativas comunitárias que promovam a melhoria da qualidade de vida e o engajamento da comunidade."
 
 ## Como Participar
-- **Servidor Discord**: [Link do Discord](#)
+- **Servidor Discord**: [https://discord.gg/GMXwadzQdA](#)
 - **Twitter**: [@LocalCommunityDAO](https://twitter.com/LocalCommunityDAO)
 
 ## Doações
 Para contribuir com a DAO, envie suas doações para a seguinte carteira:
-- **Endereço da Carteira**: 0xYourWalletAddress
+- **Endereço da Carteira**: 0x6b31B64Fca17dF11D77b437840c5f98e25DfFEF1 (Polygon)
 
 ## Política de Remuneração
 - **Detentores de Tokens de Governança**: Os detentores de tokens de governança (LCT) terão direito a votar em propostas e decisões importantes da DAO.
@@ -24,4 +24,4 @@ Para contribuir com a DAO, envie suas doações para a seguinte carteira:
 A LocalCommunityDAO será registrada como uma LLC assim que 70% dos fundos necessários forem arrecadados.
 
 ## GitHub Page
-[Página da LocalCommunityDAO](https://seuusuario.github.io/LocalCommunityDAO)
+[Página da LocalCommunityDAO](https://marcelocorni.github.io/LocalCommunityDAO)
