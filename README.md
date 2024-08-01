@@ -24,4 +24,4 @@ Para contribuir com a DAO, envie suas doações para a seguinte carteira:
 A LocalCommunityDAO será registrada como uma LLC assim que 70% dos fundos necessários forem arrecadados.
 
 ## GitHub Page
-[Página da LocalCommunityDAO](https://marcelocorni.github.io/LocalCommunityDAO)
+[Página da LocalCommunityDAO](https://marcelocorni.github.io/BootcampDAO/)
